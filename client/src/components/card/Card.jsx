@@ -16,7 +16,7 @@ const Card = ({ post }) => {
         <img src={Heart} alt="Heart icon" className="cardIcon" />
         <img src={Comment} alt="Comment icon" className="cardIcon" />
         <img src={Share} alt="Share icon" className="cardIcon" />
-        <img src={Info} alt="Info icon" className="cardIcon" />
+        <img src={Info} alt="Info icon" className="cardIcon infoIcon" />
       </div>
     </div>
   );
